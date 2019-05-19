@@ -1,0 +1,12 @@
+{
+    "files": [
+        "src/main/java/ev3dev/exception/InvalidPortException.java",
+        "src/main/java/ev3dev/hardware/Device.java",
+        "src/main/java/ev3dev/hardware/motors/Motor.java",
+        "src/main/java/ev3dev/hardware/ports/LegoPort.java",
+        "src/main/java/ev3dev/hardware/ports/MotorPort.java",
+        "src/main/java/ev3dev/hardware/ports/SensorPort.java"
+        "src/main/java/ev3dev/io/Sysclass.java"
+    ],
+    "templateDir": "templates/"
+}
